@@ -1,0 +1,5 @@
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent\bin\Debug\ECSWithEvent.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent\bin\Debug\ECSWithEvent.pdb
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent\obj\Debug\ECSWithEvent.csprojAssemblyReference.cache
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent\obj\Debug\ECSWithEvent.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent\obj\Debug\ECSWithEvent.pdb

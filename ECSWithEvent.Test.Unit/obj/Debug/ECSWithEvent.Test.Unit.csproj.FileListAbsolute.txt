@@ -1,0 +1,17 @@
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\ECSWithEvent.Test.Unit.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\ECSWithEvent.Test.Unit.pdb
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\Castle.Core.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\ECSWithEvent.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\NSubstitute.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\nunit.framework.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\ECSWithEvent.pdb
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\Castle.Core.xml
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\NSubstitute.xml
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\nunit.framework.pdb
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\nunit.framework.xml
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\obj\Debug\ECSWithEvent.Test.Unit.csprojAssemblyReference.cache
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\obj\Debug\ECSWithEvent.Test.Unit.csproj.CopyComplete
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\obj\Debug\ECSWithEvent.Test.Unit.dll
+D:\Programmer\JetBrains\projects\ECSWithEvents\ECSWithEvent.Test.Unit\obj\Debug\ECSWithEvent.Test.Unit.pdb
